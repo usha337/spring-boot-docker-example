@@ -1,6 +1,4 @@
-# spring-boot-docker-example
-
-# Java and MongoDB Example
+# Add Docker to Your Spring Boot Application
 
 This example app shows how to package a Spring Boot application with Docker. See [Add Docker to Your Spring Boot Application][blog-post] to see how it was built.
 
