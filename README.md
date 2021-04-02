@@ -5,7 +5,7 @@ This example app shows how to package a Spring Boot application with Docker. See
 ## Prerequisite
 
 - **Java 11**: If you don't have Java 11, you can install OpenJDK. Instructions are found on the [OpenJDK website](https://openjdk.java.net/install/).
-- **Docker** - We recommend https://www.docker.com/products/docker-desktop[Docker Desktop]
+- **Docker** - We recommend [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - **Okta Developer Account**: Go to [the Okta website](https://developer.okta.com/signup/) and sign up for a free developer account, if you haven't already.
 
 > [Okta](https://developer.okta.com/) has Authentication and User Management APIs that reduce development time with instant-on, scalable user infrastructure. Okta's REST API and makes it easy for developers to authenticate, manage, and secure users + roles in any application.
